@@ -1,0 +1,6 @@
+.conteudo {
+    display: grid;
+    grid-template-columns: 1.3fr 1.8fr 1.55fr;
+    background-color: #15202B;
+    color: #FFFFFF;
+}

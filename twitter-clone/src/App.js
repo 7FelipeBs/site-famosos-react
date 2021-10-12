@@ -1,10 +1,10 @@
-import Menu from './components/Menu/Menu'
+import Twitter from './components/Twitter/Twitter'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Menu />
+      <Twitter />
     </div>
   );
 }
